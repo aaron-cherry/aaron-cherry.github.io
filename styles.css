@@ -1,0 +1,19 @@
+/*Color scheme
+284b63
+d9d9d9
+ffffff
+3c6e71
+353535*/
+
+body{
+    background-color: #353535;
+}
+
+#buttonDiv{
+    border: 5px solid #284b63;
+    background-color: #3c6e71;
+    margin:auto;
+    width:50%;
+    text-align: center;
+    padding: 10px
+}
